@@ -1,0 +1,16 @@
+# ninja log v7
+66	4138	7833010920716013	lib/CMakeFiles/number.dir/number.cpp.obj	74936d6c5f6a8dc2
+4146	4402	7833010961514844	lib/number.lib	dc6ec1e98eff7cf5
+75	5800	7833010920806003	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	b492d0d3c350f8cf
+90	5878	7833010920955966	tests/CMakeFiles/number_tests.dir/comparison_tests.cpp.obj	64203728efe097d4
+93	5906	7833010920985980	tests/CMakeFiles/number_tests.dir/output_tests.cpp.obj	cc53bebbac2c02a5
+96	5933	7833010921025968	tests/CMakeFiles/number_tests.dir/edge_cases_tests.cpp.obj	6691b296e1b23da5
+102	5965	7833010921085963	tests/CMakeFiles/number_tests.dir/compatibility_tests.cpp.obj	42adf06a6ccce015
+81	5978	7833010920865987	tests/CMakeFiles/number_tests.dir/conversion_tests.cpp.obj	24421ca9c8b1f1fa
+86	6594	7833010920915978	tests/CMakeFiles/number_tests.dir/arithmetic_tests.cpp.obj	dc00646bb39bcf97
+58	11407	7833010920635997	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	e181013480c8bb63
+11409	11509	7833011034153508	lib/gtest.lib	d50f0a5aa9b2bd81
+11509	11580	7833011035144715	lib/gtest_main.lib	980a3f284cf9b323
+11581	12027	7833011040245824	tests/number_tests.exe	a4f5f91e4f3b6d9d
+11581	12027	7833011040245824	tests/number_tests[1]_tests.cmake	a4f5f91e4f3b6d9d
+11581	12027	7833011040245824	C:/Users/Олег/OneDrive/Desktop/ИТМО/ОП/Лабораторная № 2/build/tests/number_tests[1]_tests.cmake	a4f5f91e4f3b6d9d

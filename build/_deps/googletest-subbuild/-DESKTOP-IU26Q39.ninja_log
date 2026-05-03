@@ -1,0 +1,21 @@
+# ninja log v7
+1	88	7833010788139983	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	42448c9b5baf8a53
+1	88	7833010788139983	C:/Users/Олег/OneDrive/Desktop/ИТМО/ОП/Лабораторная № 2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	42448c9b5baf8a53
+88	1407	7833010801326616	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	f2d5398ad8433ace
+88	1407	7833010801326616	C:/Users/Олег/OneDrive/Desktop/ИТМО/ОП/Лабораторная № 2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	f2d5398ad8433ace
+1407	1457	7833010801835844	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	608d4660171adfc7
+1407	1457	7833010801835844	C:/Users/Олег/OneDrive/Desktop/ИТМО/ОП/Лабораторная № 2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	608d4660171adfc7
+1457	1505	7833010802312366	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	8290bfe51181ac31
+1457	1505	7833010802312366	C:/Users/Олег/OneDrive/Desktop/ИТМО/ОП/Лабораторная № 2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	8290bfe51181ac31
+1505	1550	7833010802765653	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	d2f835a510560b8c
+1505	1550	7833010802765653	C:/Users/Олег/OneDrive/Desktop/ИТМО/ОП/Лабораторная № 2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	d2f835a510560b8c
+1551	1600	7833010803262902	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	ce5050d06059e02c
+1551	1600	7833010803262902	C:/Users/Олег/OneDrive/Desktop/ИТМО/ОП/Лабораторная № 2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	ce5050d06059e02c
+1600	1646	7833010803730833	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	1d0cc50903a21145
+1600	1646	7833010803730833	C:/Users/Олег/OneDrive/Desktop/ИТМО/ОП/Лабораторная № 2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	1d0cc50903a21145
+1646	1693	7833010804184602	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	66faf91c335e2bbc
+1646	1693	7833010804184602	C:/Users/Олег/OneDrive/Desktop/ИТМО/ОП/Лабораторная № 2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	66faf91c335e2bbc
+1693	1769	7833010804955647	CMakeFiles/googletest-populate-complete	56085d538c51560d
+1693	1769	7833010804955647	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	56085d538c51560d
+1693	1769	7833010804955647	C:/Users/Олег/OneDrive/Desktop/ИТМО/ОП/Лабораторная № 2/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	56085d538c51560d
+1693	1769	7833010804955647	C:/Users/Олег/OneDrive/Desktop/ИТМО/ОП/Лабораторная № 2/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	56085d538c51560d
